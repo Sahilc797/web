@@ -1,0 +1,40 @@
+.display-4{ 
+	transform: 1s;
+	transition-duration: 0.5s;
+	cursor: grabbing;
+	}
+
+.display-4:hover{
+	transform: scale(1.1);
+	color: #B76600;
+}
+
+/*#mail{
+	transform: 1s;
+	transition-duration: .5s;
+	cursor:progress;
+	line-height: .1;
+}
+#mail:hover{
+	transform: scale(1.1);
+}
+
+#college{
+	transform: 1s;
+	transition-duration: .5s;
+	cursor:progress;
+	line-height: .1;
+}
+#college:hover{
+	transform: scale(1.1);
+}
+*/
+.no{
+	transform: all 1s;
+	transition-duration: .5s;
+	cursor:progress;
+	line-height: .1;
+}
+.no:hover{
+	transform: scale(1.1);
+}
